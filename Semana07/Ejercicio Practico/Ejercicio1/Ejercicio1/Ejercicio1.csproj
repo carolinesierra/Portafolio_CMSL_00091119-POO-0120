@@ -43,7 +43,6 @@
         <Compile Include="Evaluacion.cs" />
         <Compile Include="EvaluationNonExistentException.cs" />
         <Compile Include="ExistException.cs" />
-        <Compile Include="InvalidDataException.cs" />
         <Compile Include="Laboratorio.cs" />
         <Compile Include="Parcial.cs" />
         <Compile Include="Program.cs" />

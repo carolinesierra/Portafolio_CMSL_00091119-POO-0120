@@ -120,15 +120,18 @@ namespace Ejercicio1
 
                                break;
                            case 4:
-                               try
-                               {
-                                   Calculadora();
-                               }
-                               catch (InvalidDataException e)
-                               {
-                                   Console.WriteLine(e.Message);
-                               }
+                               calcularNota.Calcular(new List<Evaluacion>());
+                               double total = calcularNota.Calcular(ev);
 
+                               if (total <= 10)
+                               {
+                                   Console.WriteLine("-------Mostrando Promedio-------");
+                                   Console.WriteLine(total);
+                               }else
+                               {
+                                   Console.WriteLine("Error, tiene que ser igual o menor que 10.");
+                               }
+                               
                                continuar = false;
                                break;
                            default:
@@ -184,18 +187,7 @@ namespace Ejercicio1
                   Console.WriteLine("Evaluación eliminada:(");
               }
 
-
-              public static void Calculadora()
-              {
-                  
-                  calcularNota.Calcular(new List<Evaluacion>());
-                  double total = calcularNota.Calcular(ev); /////////preguntar
-                           
-                  if(total <= 10)
-                      throw new InvalidDataException("Tiene que ser menor o igual que 10.");
-                  Console.WriteLine("-------Mostrando Promedio-------");
-                  Console.WriteLine(total);
-              }
+              
               
               private static void MostrandoEv()
               {
@@ -226,3 +218,4 @@ namespace Ejercicio1
               }
     }
 }
+
