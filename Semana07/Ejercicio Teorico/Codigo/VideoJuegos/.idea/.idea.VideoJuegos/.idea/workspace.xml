@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="137ac63a-c306-4aac-8320-849c2325f663" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/GameCreatedException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/CardAlreadyCreatedException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/GestorArchivos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/ConsolaJuegos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/Banco.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/VideoJuegos/CardNotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VideoJuegos/Tarejta.txt.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/Tarejta.txt" />
+        <option value="$PROJECT_DIR$/VideoJuegos/Juegos.txt" />
+        <option value="$PROJECT_DIR$/VideoJuegos/GestorArchivos.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/GameCreatedException.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/GameNotCreated.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/GameNotCreatedException.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/CardAlreadyCreatedException.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/Banco.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/CardNotFoundException.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/Program.cs" />
+        <option value="$PROJECT_DIR$/VideoJuegos/ConsolaJuegos.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b9o5LvxQSQ6KPX9misnT23e1lx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.VideoJuegos">
+    <configuration name="VideoJuegos" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VideoJuegos/VideoJuegos.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Banco.consultarTarjetas" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.3.4\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VideoJuegos/VideoJuegos.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v3.5" />
+      <option name="CLASS_NAME" value="Banco" />
+      <option name="METHOD_NAME" value="consultarTarjetas" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Banco.registrarTarjeta" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2019.3.4\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/VideoJuegos/VideoJuegos.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v3.5" />
+      <option name="CLASS_NAME" value="Banco" />
+      <option name="METHOD_NAME" value="registrarTarjeta" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.Banco.registrarTarjeta" />
+        <item itemvalue=".NET Static Method.Banco.consultarTarjetas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="137ac63a-c306-4aac-8320-849c2325f663" name="Default Changelist" comment="" />
+      <created>1588053500205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588053500205</updated>
+      <workItem from="1588053521180" duration="5626000" />
+      <workItem from="1588125358828" duration="17165000" />
+      <workItem from="1588205194322" duration="308000" />
+      <workItem from="1588205510358" duration="15840000" />
+      <workItem from="1588396811696" duration="5591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1323" height="31" key="GridCell.Tab.0.bottom" timestamp="1588393417813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="31" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588393417813" />
+    <state width="1323" height="31" key="GridCell.Tab.0.center" timestamp="1588393417813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="31" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588393417813" />
+    <state width="1323" height="31" key="GridCell.Tab.0.left" timestamp="1588393417813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="31" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588393417813" />
+    <state width="1323" height="31" key="GridCell.Tab.0.right" timestamp="1588393417813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="31" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588393417813" />
+    <state x="389" y="192" key="Rider.ProjectTemplateDialog.Size" timestamp="1588155011055">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="192" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728@0.0.1366.728" timestamp="1588155011055" />
+    <state x="519" y="77" key="RiderGenerateDialog" timestamp="1588055595186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="519" y="77" key="RiderGenerateDialog/0.0.1366.728@0.0.1366.728" timestamp="1588055595186" />
+  </component>
+</project>

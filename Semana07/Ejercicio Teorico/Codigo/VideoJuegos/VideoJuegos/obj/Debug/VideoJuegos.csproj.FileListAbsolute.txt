@@ -1,0 +1,5 @@
+C:\Users\Joaquin\RiderProjects\VideoJuegos\VideoJuegos\bin\Debug\VideoJuegos.exe
+C:\Users\Joaquin\RiderProjects\VideoJuegos\VideoJuegos\bin\Debug\VideoJuegos.pdb
+C:\Users\Joaquin\RiderProjects\VideoJuegos\VideoJuegos\obj\Debug\VideoJuegos.csprojAssemblyReference.cache
+C:\Users\Joaquin\RiderProjects\VideoJuegos\VideoJuegos\obj\Debug\VideoJuegos.exe
+C:\Users\Joaquin\RiderProjects\VideoJuegos\VideoJuegos\obj\Debug\VideoJuegos.pdb
