@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6424c801-81fb-44a7-8537-6a9fac02ac2d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UserView.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Register.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Icecreamsland.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Register.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Icecreamsland.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminView.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/packages.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Usuarios.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RegistroDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionDB.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Admin.Designer.cs" />
+        <option value="$PROJECT_DIR$/UserAdministration.Designer.cs" />
+        <option value="$PROJECT_DIR$/InventoryAdministration.Designer.cs" />
+        <option value="$PROJECT_DIR$/OrderHistory.Designer.cs" />
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/User.Designer.cs" />
+        <option value="$PROJECT_DIR$/InventoryAdmin.Designer.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/UserView.Designer.cs" />
+        <option value="$PROJECT_DIR$/UserAdminForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminView.Designer.cs" />
+        <option value="$PROJECT_DIR$/Register.Designer.cs" />
+        <option value="$PROJECT_DIR$/ConnectionBD.cs" />
+        <option value="$PROJECT_DIR$/Register.cs" />
+        <option value="$PROJECT_DIR$/Icecreamsland.Designer.cs" />
+        <option value="$PROJECT_DIR$/Usuarios.cs" />
+        <option value="$PROJECT_DIR$/RegistroDAO.cs" />
+        <option value="$PROJECT_DIR$/Icecreamsland.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cL3dMBICxPvMiFL2M1q1pES0Hq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Icecreams land" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Icecreams land.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6424c801-81fb-44a7-8537-6a9fac02ac2d" name="Default Changelist" comment="" />
+      <created>1590294144177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590294144177</updated>
+      <workItem from="1590294163423" duration="5352000" />
+      <workItem from="1590387231601" duration="2006000" />
+      <workItem from="1590391022280" duration="896000" />
+      <workItem from="1590391965243" duration="572000" />
+      <workItem from="1590393099390" duration="615000" />
+      <workItem from="1590423824220" duration="5398000" />
+      <workItem from="1590444390278" duration="7807000" />
+      <workItem from="1590464230324" duration="658000" />
+      <workItem from="1590465406064" duration="1743000" />
+      <workItem from="1590467285611" duration="4667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1590472247779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590472247779" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1590472247755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590472247755" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1590472247749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590472247749" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1590472247755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590472247755" />
+  </component>
+</project>

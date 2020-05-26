@@ -1,0 +1,34 @@
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Icecreams_land.exe.config
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Icecreams_land.pdb
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams land.csprojAssemblyReference.cache
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.Properties.Resources.resources
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams land.csproj.GenerateResource.cache
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.exe
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.pdb
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.Form1.resources
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Npgsql.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Buffers.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Memory.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Text.Json.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.ValueTuple.dll
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Npgsql.pdb
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\Npgsql.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Buffers.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Memory.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Text.Json.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\bin\Debug\System.ValueTuple.xml
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.exe.config
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.Register.resources
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams land.csproj.CopyComplete
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.AdminView.resources
+C:\Users\lenovo\RiderProjects\Icecreams land\obj\Debug\Icecreams_land.UserView.resources
