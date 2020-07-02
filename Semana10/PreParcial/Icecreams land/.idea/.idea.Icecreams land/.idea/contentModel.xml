@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\lenovo\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\lenovo\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Icecreams land.1810796952.00" t="ExcludeRecursive" />
-    <e p="C:\Users\lenovo\RiderProjects\Icecreams land" t="IncludeRecursive">
+    <e p="C:\Users\Joaquin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Joaquin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Icecreams land.-1438717403.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Joaquin\Desktop\Ejercicios de clases\Semana10\PreParcial\Icecreams land" t="IncludeRecursive">
       <e p="AdminView.cs" t="Include" />
       <e p="AdminView.Designer.cs" t="Include" />
       <e p="AdminView.resx" t="Include" />

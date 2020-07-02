@@ -1,0 +1,5 @@
+C:\Users\Joaquin\RiderProjects\UltimoEjercicio\obj\Debug\UltimoEjercicio.csprojAssemblyReference.cache
+C:\Users\Joaquin\RiderProjects\UltimoEjercicio\bin\Debug\UltimoEjercicio.exe
+C:\Users\Joaquin\RiderProjects\UltimoEjercicio\bin\Debug\UltimoEjercicio.pdb
+C:\Users\Joaquin\RiderProjects\UltimoEjercicio\obj\Debug\UltimoEjercicio.exe
+C:\Users\Joaquin\RiderProjects\UltimoEjercicio\obj\Debug\UltimoEjercicio.pdb

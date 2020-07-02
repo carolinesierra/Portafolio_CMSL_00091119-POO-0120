@@ -24,7 +24,7 @@ namespace Ejercicio1
                        {
                            case 1:
                                Console.WriteLine("-------Agregando Evaluación-------");
-                               Console.Write("Nombre: "); 
+                               Console.Write("Nombre:"); 
                                nombre = Console.ReadLine();
                                if (nombre.Length == 0)
                                    throw new EmptyException("El nombre está vacío.");
@@ -149,6 +149,11 @@ namespace Ejercicio1
                    {
                        Console.WriteLine(e.Message);
                    }
+                   catch (ExistException e)
+                   {
+                       Console.WriteLine(e.Message);
+                   }
+                
                } while (continuar);
 
                Console.WriteLine("\nGracias por preferirnos, que tenga un buen día:)!");
@@ -172,10 +177,10 @@ namespace Ejercicio1
                   Console.WriteLine("Nombre de la evaluacion a eliminar: ");
                   String eliminando = Console.ReadLine();
                   if (eliminando != null && eliminando.Length == 0)
-                          throw new EmptyException("El nombre está vacío.");
+                      throw new EmptyException("El nombre está vacío.");
                   if (eliminando != null)
                       throw new EvaluationNonExistentException("No existe dicha evaluación.");
-
+                 
                   foreach (var p in ev)
                   {
                       if (p.Nombre == eliminando)
